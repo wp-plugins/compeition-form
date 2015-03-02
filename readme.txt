@@ -8,7 +8,7 @@ Stable tag: 3.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Run competitions on your Wordpress site with this simple competition plugin, combined with Contact Form 7. Collect and save entries, and pick random winners.
+Run competitions on your site with this simple competition plugin, combined with Contact Form 7. Collect and save entries, pick random winners.
 
 == Description ==
 
