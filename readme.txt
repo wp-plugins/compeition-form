@@ -47,7 +47,7 @@ Yes, this plug-in uses Contact Form 7 (a great Wordress plug-in for creating web
 
 1. Upload this plugin to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Manage options and send tests via the 'Email Test' option within your WooCommerce menu.
+3. Manage competition forms, see and export entries, and select winners via the Competitions menu
 
 == Screenshots ==
 
